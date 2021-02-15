@@ -1,4 +1,4 @@
-with open('Day1\\input.txt') as f:
+with open('Day 1\\input.txt') as f:
     data = f.readlines()
 
 data = list(map(int,data))
